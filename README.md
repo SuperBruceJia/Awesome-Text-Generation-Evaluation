@@ -25,7 +25,7 @@ on _reference-based_ and _reference-free_ evaluation metrics for **natural langu
     - [Sequence-to-sequence Learning and Probability Estimation](#Sequence-to-sequence-Learning-and-Probability-Estimation)
   - [Unsupervised Learned Metrics](#Unsupervised-Learned-Metrics)
     - [Embedding-based Metrics](#Embedding-based-Metrics)
-    - [Text Generation-based Metrics](Text-Generation-based-Metrics)
+    - [Text Generation-based Metrics](#Text-Generation-based-Metrics)
 - [Explainability-driven Metrics as Evaluator](#Explainability-driven-Metrics-as-Evaluator)
   - [Error Measurement](#Error-Measurement)
   - [Adversarial Samples](#Adversarial-Samples)
