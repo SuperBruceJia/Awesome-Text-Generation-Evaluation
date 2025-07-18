@@ -6,7 +6,7 @@ Awesome Text Generation Evaluation: a curated list of evaluation metrics for nat
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/SuperBruceJia/Awesome-Text-Generation-Evaluation)
 
 This repository, called **Awesome Text Generation Evaluation**, contains a collection of resources and papers 
-on _reference-based_ and _reference-free_ evaluation metrics for **natural language generation** (NLG). 
+on _reference-based_ and _reference-free_ evaluation metrics for **Natural Language Generation** (NLG). 
 
 "*If you can't measure it, you can't improve it*. " - British Physicist William Thomson
 
