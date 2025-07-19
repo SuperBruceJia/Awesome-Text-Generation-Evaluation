@@ -103,6 +103,15 @@ ACL 2002, [[Paper](https://aclanthology.org/P02-1040.pdf)]\
 July 2002
 
 ## Edit-distance based Metrics
+**Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts**\
+*Elizabeth Clark, Asli Celikyilmaz, Noah A. Smith*\
+ACL 2019, [[Paper](https://aclanthology.org/P19-1264v2.pdf)] [[GitHub](https://github.com/eaclark07/sms)]\
+2019
+
+**From Word Embeddings To Document Distances**\
+*Matt Kusner, Yu Sun, Nicholas Kolkin, Kilian Weinberger*\
+ICML 2015, [[Paper](https://proceedings.mlr.press/v37/kusnerb15.pdf)] [[GitHub](https://github.com/mkusner/wmd)]\
+2015
 
 # Learned Metrics as Evaluator
 ## Supervised Learned Metrics
