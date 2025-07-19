@@ -16,8 +16,8 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
 - [Survey](#Survey)
 - [Human Judgement Datasets](#Human-Judgement-Datasets)
 - [Lexical Overlap as Evaluator](#Lexical-Overlap-as-Evaluator)
-  - [N-gram based Metrics](#N-gram-based-Metrics)
-  - [Edit-distance based Metrics](#Edit-distance-based-Metrics)
+  - [N-gram-based Metrics](#N-gram-based-Metrics)
+  - [Edit distance-based Metrics](#Edit-distance-based-Metrics)
 - [Learned Metrics as Evaluator](#Learned-Metrics-as-Evaluator)
   - [Supervised Learned Metrics](#Supervised-Learned-Metrics)
     - [Supervised Regression with Human Judgment Data](#Supervised-Regression-with-Human-Judgment-Data)
@@ -86,7 +86,7 @@ Proceedings of the Second Workshop on Machine Reading for Question Answering 201
 2019
 
 # Lexical Overlap as Evaluator
-## N-gram based Metrics
+## N-gram-based Metrics
 **chrF: Character _N_-gram F-score for Automatic MT Evaluation**\
 *Maja Popovic*\
 Workshop on Statistical Machine Translation 2015, [[Paper](https://aclanthology.org/W15-3049.pdf)] [[GitHub](https://github.com/m-popovic/chrF)] [[Hugging Face]](https://huggingface.co/spaces/evaluate-metric/chrf)\
@@ -107,7 +107,7 @@ Proceedings of Workshop on Text Summarization Branches Out 2004, [[Paper](https:
 ACL 2002, [[Paper](https://aclanthology.org/P02-1040.pdf)]\
 2002
 
-## Edit-distance based Metrics
+## Edit distance-based Metrics
 **Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts**\
 *Elizabeth Clark, Asli Celikyilmaz, Noah A. Smith*\
 ACL 2019, [[Paper](https://aclanthology.org/P19-1264v2.pdf)] [[GitHub](https://github.com/eaclark07/sms)]\
