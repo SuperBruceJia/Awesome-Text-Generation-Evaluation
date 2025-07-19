@@ -137,6 +137,11 @@ ACL 2020, [[Paper](https://aclanthology.org/2020.acl-main.704.pdf)]\
 EMNLP 2020, [[Paper](https://aclanthology.org/2020.emnlp-main.213.pdf)]\
 19 Oct 2020
 
+**BEER: BEtter Evaluation as Ranking**\
+*Miloš Stanojević, Khalil Sima’an*\
+Workshop on Statistical Machine Translation 2014, [[Paper](https://aclanthology.org/W14-3354.pdf)]\
+2014
+
 ### Sequence-to-sequence Learning and Probability Estimation
 
 ## Unsupervised Learned Metrics
