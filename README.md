@@ -138,6 +138,11 @@ ICML 2015, [[Paper](https://proceedings.mlr.press/v37/kusnerb15.pdf)] [[GitHub](
 ICLR 2020, [[Paper](https://openreview.net/pdf?id=SkeHuCVFDr)] [[GitHub](https://github.com/Tiiiger/bert_score)] [[Hugging Face](https://huggingface.co/spaces/evaluate-metric/bertscore)]\
 24 Feb 2020
 
+**MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance**\
+*Wei Zhao, Maxime Peyrard, Fei Liu, Yang Gao, Christian M. Meyer, Steffen Eger*\
+EMNLP 2019, [[Paper](https://aclanthology.org/D19-1053.pdf)] [[GitHub](https://github.com/AIPHES/emnlp19-moverscore)]\
+26 Sep 2019
+
 ### Text Generation-based Metrics
 **BARTScore: Evaluating Generated Text as Text Generation**\
 *Weizhe Yuan, Graham Neubig, Pengfei Liu*\
