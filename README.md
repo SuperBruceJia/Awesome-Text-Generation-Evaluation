@@ -168,9 +168,14 @@ NeurIPS 2021, [[Paper](https://proceedings.neurips.cc/paper/2021/file/e4d2b6e6fd
 
 # Explainability-driven Metrics as Evaluator
 ## Error Measurement
+**INSTRUCTSCORE: Explainable Text Generation Evaluation with Finegrained Feedback**\
+*Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li*\
+EMNLP 2023, [[Paper](https://aclanthology.org/2023.emnlp-main.365.pdf)] [[GitHub](https://github.com/xu1998hz/InstructScore_SEScore3)]\
+26 Oct 2023
+
 **Toward Human-Like Evaluation for Natural Language Generation with Error Analysis**\
 *Qingyu Lu, Liang Ding, Liping Xie, Kanjian Zhang, Derek F. Wong, Dacheng Tao*\
-ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.324.pdf)] [[GitHub](https://github.com/Coldmist-Lu/ErrorAnalysis_NLGEvaluation)]\
+EMNLP 2023, [[Paper](https://aclanthology.org/2023.emnlp-main.365.pdf)] [[GitHub](https://github.com/Coldmist-Lu/ErrorAnalysis_NLGEvaluation)]\
 20 Dec 2022
 
 **Not All Errors are Equal: Learning Text Generation Metrics using Stratified Error Synthesis**\
@@ -184,4 +189,17 @@ WMT 2022, [[Paper](https://aclanthology.org/2022.wmt-1.51.pdf)] [[GitHub](https:
 2022
 
 ## Adversarial Samples
+
 ## Multi-dimension Disentanglement
+**GPTScore: Evaluate as You Desire**\
+*Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu*\
+NAACL 2024, [[Paper](https://aclanthology.org/2024.naacl-long.365.pdf)] [[GitHub](https://github.com/jinlanfu/GPTScore)]\
+13 Feb 2023
+
+**G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment**\
+*Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu*\
+EMNLP 2023, [[Paper](https://aclanthology.org/2023.emnlp-main.153.pdf)] [[GitHub](https://github.com/nlpyang/geval)]\
+23 May 2023
+
+
+
