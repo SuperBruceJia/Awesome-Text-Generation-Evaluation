@@ -105,7 +105,7 @@ Proceedings of Workshop on Text Summarization Branches Out 2004, [[Paper](https:
 **BLEU: A Method for Automatic Evaluation of Machine Translation**\
 *Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu*\
 ACL 2002, [[Paper](https://aclanthology.org/P02-1040.pdf)]\
-July 2002
+2002
 
 ## Edit-distance based Metrics
 **Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts**\
