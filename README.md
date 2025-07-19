@@ -44,6 +44,11 @@ arXiv 2025, [[Paper](https://arxiv.org/pdf/2501.12011)]\
 arXiv 2024, [[Paper](https://arxiv.org/pdf/2405.15604)]\
 29 Aug 2024
 
+**Towards Explainable Evaluation Metrics for Natural Language Generation**\
+*Christoph Leiter, Piyawat Lertvittayakumjorn, Marina Fomicheva, Wei Zhao, Yang Gao, Steffen Eger*\
+arXiv 2022, [[Paper](https://arxiv.org/pdf/2203.11131)]\
+21 Mar 2022
+
 **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text**\
 *Sebastian Gehrmann, Elizabeth Clark, Thibault Sellam*\
 Journal of Artificial Intelligence Research 2022, [[Paper](https://dl.acm.org/doi/pdf/10.1613/jair.1.13715)]\
