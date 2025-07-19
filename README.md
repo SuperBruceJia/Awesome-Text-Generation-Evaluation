@@ -178,5 +178,10 @@ ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.324.pdf)] [[GitHub](ht
 EMNLP 2022, [[Paper](https://aclanthology.org/2022.findings-emnlp.489.pdf)] [[GitHub](https://github.com/xu1998hz/SEScore)]\
 26 Oct 2022
 
+**MaTESe: Machine Translation Evaluation as a Sequence Tagging Problem**\
+*Stefano Perrella, Lorenzo Proietti, Alessandro Scirè, Niccolò Campolungo, Roberto Navigli*\
+WMT 2022, [[Paper](https://aclanthology.org/2022.wmt-1.51.pdf)] [[GitHub](https://github.com/SapienzaNLP/MaTESe)]\
+2022
+
 ## Adversarial Samples
 ## Multi-dimension Disentanglement
