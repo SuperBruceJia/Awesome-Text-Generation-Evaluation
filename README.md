@@ -113,7 +113,7 @@ ACL 2019, [[Paper](https://aclanthology.org/P19-1264v2.pdf)] [[GitHub](https://g
 ICML 2015, [[Paper](https://proceedings.mlr.press/v37/kusnerb15.pdf)] [[GitHub](https://github.com/mkusner/wmd)]\
 2015
 
-**CHRF: Character _N_-gram F-score for Automatic MT Evaluation**\
+**chrF: Character _N_-gram F-score for Automatic MT Evaluation**\
 *Maja Popovic*\
 Workshop on Statistical Machine Translation 2015, [[Paper](https://aclanthology.org/W15-3049.pdf)] [[GitHub](https://github.com/m-popovic/chrF)] [[Hugging Face]](https://huggingface.co/spaces/evaluate-metric/chrf)\
 2015
