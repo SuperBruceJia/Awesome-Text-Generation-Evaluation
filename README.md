@@ -168,5 +168,15 @@ NeurIPS 2021, [[Paper](https://proceedings.neurips.cc/paper/2021/file/e4d2b6e6fd
 
 # Explainability-driven Metrics as Evaluator
 ## Error Measurement
+**Toward Human-Like Evaluation for Natural Language Generation with Error Analysis**\
+*Qingyu Lu, Liang Ding, Liping Xie, Kanjian Zhang, Derek F. Wong, Dacheng Tao*\
+ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.324.pdf)] [[GitHub](https://github.com/Coldmist-Lu/ErrorAnalysis_NLGEvaluation)]\
+20 Dec 2022
+
+**Not All Errors are Equal: Learning Text Generation Metrics using Stratified Error Synthesis**\
+*Wenda Xu, Yilin Tuan, Yujie Lu, Michael Saxon, Lei Li, William Yang Wang*\
+EMNLP 2022, [[Paper](https://aclanthology.org/2022.findings-emnlp.489.pdf)] [[GitHub](https://github.com/xu1998hz/SEScore)]\
+26 Oct 2022
+
 ## Adversarial Samples
 ## Multi-dimension Disentanglement
