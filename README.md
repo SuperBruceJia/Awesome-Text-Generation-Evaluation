@@ -190,6 +190,10 @@ WMT 2022, [[Paper](https://aclanthology.org/2022.wmt-1.51.pdf)] [[GitHub](https:
 2022
 
 ## Adversarial Samples
+**Towards Explainable Evaluation Metrics for Natural Language Generation**\
+*Christoph Leiter, Piyawat Lertvittayakumjorn, Marina Fomicheva, Wei Zhao, Yang Gao, Steffen Eger*\
+arXiv 2022, [[Paper](https://arxiv.org/pdf/2203.11131)] [[GitHub](https://github.com/Gringham/explainable-metrics-machine-translation)]\
+21 Mar 2022
 
 ## Pairwise Evaluation
 **Large Language Models are not Fair Evaluators**\
