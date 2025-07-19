@@ -143,6 +143,10 @@ Workshop on Statistical Machine Translation 2014, [[Paper](https://aclanthology.
 2014
 
 ### Sequence-to-sequence Learning and Probability Estimation
+**Paraphrase Generation as Zero-Shot Multilingual Translation: Disentangling Semantic Similarity from Lexical and Syntactic Diversity**\
+*Brian Thompson, Matt Post*\
+WMT 2020, [[Paper](https://aclanthology.org/2020.wmt-1.67.pdf)]\
+28 Oct 2020
 
 ## Unsupervised Learned Metrics
 ### Embedding-based Metrics
