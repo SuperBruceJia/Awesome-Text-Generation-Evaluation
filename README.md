@@ -32,7 +32,6 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
   - [Pairwise Evaluation](#Pairwise-Evaluation)
   - [Multi-dimension Disentanglement](#Multi-dimension-Disentanglement)
 - [Citation](#Citation)
-- [Acknowledgement](#Acknowledgement)
 
 # Survey
 **Reference-free Evaluation Metrics for Text Generation: A Survey**\
@@ -222,5 +221,42 @@ NAACL 2024, [[Paper](https://aclanthology.org/2024.naacl-long.365.pdf)] [[GitHub
 EMNLP 2023, [[Paper](https://aclanthology.org/2023.emnlp-main.153.pdf)] [[GitHub](https://github.com/nlpyang/geval)]\
 23 May 2023
 
+# Citation
+If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
+```bibtex
+@misc{JiaAwesomeNLGEvaluation25,
+      author = {Jia, Shuyue},
+      title = {Awesome Text Generation Evaluation},
+      year = {2025},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-Text-Generation-Evaluation}},
+}
 
+@misc{JiaAwesomeSTS23,
+      author = {Jia, Shuyue},
+      title = {Awesome Semantic Textual Similarity},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity}},
+}
 
+@misc{JiaAwesomeLLM23,
+      author = {Jia, Shuyue},
+      title = {Awesome {LLM} Self-Consistency},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency}},
+}
+
+@misc{JiaPromptCraft23,
+      author = {Jia, Shuyue},
+      title = {{PromptCraft}: A Prompt Perturbation Toolkit},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/promptcraft}},
+}
+```
