@@ -13,7 +13,6 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-Text-Generation-Evaluation/issues/new)!*
 
 ## Contents
-- [Presentations](#Presentations)
 - [Survey](#Survey)
 - [Benchmarks](#Benchmarks)
 - [Lexical Overlap as Evaluator](#Lexical-Overlap-as-Evaluator)
@@ -33,8 +32,6 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
   - [Multi-dimension Disentanglement](#Multi-dimension-Disentanglement)
 - [Citation](#Citation)
 - [Acknowledgement](#Acknowledgement)
-
-# Presentations
 
 # Survey
 **Reference-free Evaluation Metrics for Text Generation: A Survey**\
@@ -62,3 +59,13 @@ arXiv 2021, [[Paper](https://arxiv.org/pdf/2006.14799)]\
 *Fangyuan Xu, Yixiao Song, Mohit Iyyer, Eunsol Choi*\
 ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.181.pdf)] [[GitHub](https://github.com/carriex/lfqa_eval)] [[Dataset](https://github.com/carriex/lfqa_eval/tree/main/preference_data)]\
 29 May 2023
+
+**Learning to Summarize From Human Feedback**\
+*Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*\
+NeurIPS 2020, [[Paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)] [[GitHub](https://github.com/openai/summarize-from-feedback)] [[Dataset](https://github.com/openai/summarize-from-feedback?tab=readme-ov-file#human-feedback-data)]\
+15 Feb 2022
+
+**Evaluating Question Answering Evaluation**\
+*Anthony Chen, Gabriel Stanovsky, Sameer Singh, and Matt Gardner*\
+Proceedings of the Second Workshop on Machine Reading for Question Answering 2019, [[Workshop Paper](https://aclanthology.org/D19-5817.pdf)] [[Symposium Paper]](https://cseweb.ucsd.edu/~jmcauley/workshops/scmls20/papers/scmls20_paper_34.pdf) [[Presentation](https://anthonywchen.github.io/Papers/evaluatingqa/mrqa_slides.pdf)] [[Dataset](https://anthonywchen.github.io/Papers/evaluatingqa/correlation_data.zip)]\
+2019
