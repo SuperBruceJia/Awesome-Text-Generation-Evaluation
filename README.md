@@ -84,3 +84,21 @@ NeurIPS 2020, [[Paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d55
 *Anthony Chen, Gabriel Stanovsky, Sameer Singh, and Matt Gardner*\
 Proceedings of the Second Workshop on Machine Reading for Question Answering 2019, [[Workshop Paper](https://aclanthology.org/D19-5817.pdf)] [[Symposium Paper]](https://cseweb.ucsd.edu/~jmcauley/workshops/scmls20/papers/scmls20_paper_34.pdf) [[Presentation](https://anthonywchen.github.io/Papers/evaluatingqa/mrqa_slides.pdf)] [[Dataset](https://anthonywchen.github.io/Papers/evaluatingqa/correlation_data.zip)]\
 2019
+
+# Lexical Overlap as Evaluator
+## N-gram based Metrics
+## Edit-distance based Metrics
+
+# Learned Metrics as Evaluator
+## Supervised Learned Metrics
+### Supervised Regression with Human Judgment Data
+### Ranking Hypothesis Sentences
+### Sequence-to-sequence Learning and Probability Estimation
+## Unsupervised Learned Metrics
+### Embedding-based Metrics
+### Text Generation-based Metrics
+
+# Explainability-driven Metrics as Evaluator
+## Error Measurement
+## Adversarial Samples
+## Multi-dimension Disentanglement
