@@ -191,6 +191,11 @@ WMT 2022, [[Paper](https://aclanthology.org/2022.wmt-1.51.pdf)] [[GitHub](https:
 ## Adversarial Samples
 
 ## Multi-dimension Disentanglement
+**Is ChatGPT a Good NLG Evaluator? A Preliminary Study**\
+*Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou*\
+New Frontiers in Summarization Workshop 2023, [[Paper](https://aclanthology.org/2023.newsum-1.1.pdf)] [[GitHub](https://github.com/krystalan/chatgpt_as_nlg_evaluator)]\
+24 Oct 2023
+
 **GPTScore: Evaluate as You Desire**\
 *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu*\
 NAACL 2024, [[Paper](https://aclanthology.org/2024.naacl-long.365.pdf)] [[GitHub](https://github.com/jinlanfu/GPTScore)]\
