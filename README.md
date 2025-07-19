@@ -46,7 +46,7 @@ arXiv 2024, [[Paper](https://arxiv.org/pdf/2405.15604)]\
 
 **Towards Explainable Evaluation Metrics for Natural Language Generation**\
 *Christoph Leiter, Piyawat Lertvittayakumjorn, Marina Fomicheva, Wei Zhao, Yang Gao, Steffen Eger*\
-arXiv 2022, [[Paper](https://arxiv.org/pdf/2203.11131)]\
+arXiv 2022, [[Paper](https://arxiv.org/pdf/2203.11131)] [[GitHub](https://github.com/Gringham/explainable-metrics-machine-translation)]\
 21 Mar 2022
 
 **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text**\
