@@ -126,8 +126,16 @@ ICML 2015, [[Paper](https://proceedings.mlr.press/v37/kusnerb15.pdf)] [[GitHub](
 # Learned Metrics as Evaluator
 ## Supervised Learned Metrics
 ### Supervised Regression with Human Judgment Data
+**BLEURT: Learning Robust Metrics for Text Generation**\
+*Thibault Sellam, Dipanjan Das, Ankur P. Parikh*\
+ACL 2020, [[Paper](https://aclanthology.org/2020.acl-main.704.pdf)]\
+21 May 2020 
 
 ### Ranking Hypothesis Sentences
+**COMET: A Neural Framework for MT Evaluation**\
+*Ricardo Rei, Craig Stewart, Ana C Farinha, Alon Lavie*\
+EMNLP 2020, [[Paper](https://aclanthology.org/2020.emnlp-main.213.pdf)]\
+19 Oct 2020
 
 ### Sequence-to-sequence Learning and Probability Estimation
 
