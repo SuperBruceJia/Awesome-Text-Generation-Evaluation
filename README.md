@@ -29,6 +29,7 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
 - [Explainability-driven Metrics as Evaluator](#Explainability-driven-Metrics-as-Evaluator)
   - [Error Measurement](#Error-Measurement)
   - [Adversarial Samples](#Adversarial-Samples)
+  - [Pairwise Evaluation](#Pairwise-Evaluation)
   - [Multi-dimension Disentanglement](#Multi-dimension-Disentanglement)
 - [Citation](#Citation)
 - [Acknowledgement](#Acknowledgement)
@@ -197,6 +198,11 @@ ACL 2024, [[Paper](https://aclanthology.org/2024.acl-long.511.pdf)] [[GitHub](ht
 30 Aug 2023
 
 ## Multi-dimension Disentanglement
+**RAGAs: Automated Evaluation of Retrieval Augmented Generation**\
+*Shahul Es, Jithin James, Luis Espinosa Anke, Steven Schockaert*\
+EACL 2024, [[Paper](https://aclanthology.org/2024.eacl-demo.16.pdf)] [[GitHub](https://github.com/explodinggradients/ragas)]\
+28 Apr 2025
+
 **Is ChatGPT a Good NLG Evaluator? A Preliminary Study**\
 *Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou*\
 New Frontiers in Summarization Workshop 2023, [[Paper](https://aclanthology.org/2023.newsum-1.1.pdf)] [[GitHub](https://github.com/krystalan/chatgpt_as_nlg_evaluator)]\
