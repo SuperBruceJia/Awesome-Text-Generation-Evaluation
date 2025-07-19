@@ -121,11 +121,23 @@ ICML 2015, [[Paper](https://proceedings.mlr.press/v37/kusnerb15.pdf)] [[GitHub](
 # Learned Metrics as Evaluator
 ## Supervised Learned Metrics
 ### Supervised Regression with Human Judgment Data
+
 ### Ranking Hypothesis Sentences
+
 ### Sequence-to-sequence Learning and Probability Estimation
+
 ## Unsupervised Learned Metrics
 ### Embedding-based Metrics
+**BERTScore: Evaluating Text Generation with BERT**\
+*Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi*\
+ICLR 2020, [[Paper](https://openreview.net/pdf?id=SkeHuCVFDr)] [[GitHub](https://github.com/Tiiiger/bert_score)] [[Hugging Face](https://huggingface.co/spaces/evaluate-metric/bertscore)]\
+24 Feb 2020
+
 ### Text Generation-based Metrics
+**BARTScore: Evaluating Generated Text as Text Generation**\
+*Weizhe Yuan, Graham Neubig, Pengfei Liu*\
+NeurIPS 2021, [[Paper](https://proceedings.neurips.cc/paper/2021/file/e4d2b6e6fdeca3e60e0f1a62fee3d9dd-Paper.pdf)] [[GitHub](https://github.com/neulab/BARTScore)]\
+27 Oct 2021
 
 # Explainability-driven Metrics as Evaluator
 ## Error Measurement
