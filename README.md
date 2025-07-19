@@ -14,7 +14,7 @@ on _reference-based_ and _reference-free_ evaluation metrics for **Natural Langu
 
 ## Contents
 - [Survey](#Survey)
-- [Benchmarks](#Benchmarks)
+- [Human Judgement Datasets](#Human-Judgement-Datasets)
 - [Lexical Overlap as Evaluator](#Lexical-Overlap-as-Evaluator)
   - [N-gram based Metrics](#N-gram-based-Metrics)
   - [Edit-distance based Metrics](#Edit-distance-based-Metrics)
@@ -54,7 +54,12 @@ Journal of Artificial Intelligence Research 2022, [[Paper](https://dl.acm.org/do
 arXiv 2021, [[Paper](https://arxiv.org/pdf/2006.14799)]\
 18 May 2021
 
-# Benchmarks
+# Human Judgement Datasets
+**People Overtrust AI-Generated Medical Advice despite Low Accuracy**\
+*Shruthi Shekar, Pat Pataranutaporn, Chethan Sarabu, Guillermo A. Cecchi, Pattie Maes*\
+NEJM AI 2025, [[Paper](https://arxiv.org/pdf/2408.15266)] [[GitHub](https://github.com/mitmedialab/LLM-MedQA)] [[Dataset](https://github.com/mitmedialab/LLM-MedQA/tree/main/Expert%20Evaluation%20%26%20Dataset%20Generation)]\
+11 Aug 2024
+
 **A Critical Evaluation of Evaluations for Long-form Question Answering**\
 *Fangyuan Xu, Yixiao Song, Mohit Iyyer, Eunsol Choi*\
 ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.181.pdf)] [[GitHub](https://github.com/carriex/lfqa_eval)] [[Dataset](https://github.com/carriex/lfqa_eval/tree/main/preference_data)]\
