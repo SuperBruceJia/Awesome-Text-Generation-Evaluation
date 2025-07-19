@@ -87,6 +87,21 @@ Proceedings of the Second Workshop on Machine Reading for Question Answering 201
 
 # Lexical Overlap as Evaluator
 ## N-gram based Metrics
+**METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments**\
+*Satanjeev Banerjee, Alon Lavie*\
+ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization 2005, [[Paper](https://aclanthology.org/W05-0909.pdf)]\
+2005
+
+**ROUGE: A Package for Automatic Evaluation of Summaries**\
+*Chin-Yew Lin*\
+Proceedings of Workshop on Text Summarization Branches Out 2004, [[Paper](https://aclanthology.org/W04-1013.pdf)]\
+2004
+
+**BLEU: A Method for Automatic Evaluation of Machine Translation**\
+*Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu*\
+ACL 2002, [[Paper](https://aclanthology.org/P02-1040.pdf)]\
+July 2002
+
 ## Edit-distance based Metrics
 
 # Learned Metrics as Evaluator
