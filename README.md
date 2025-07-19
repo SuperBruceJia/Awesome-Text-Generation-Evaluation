@@ -60,6 +60,11 @@ arXiv 2021, [[Paper](https://arxiv.org/pdf/2006.14799)]\
 NEJM AI 2025, [[Paper](https://arxiv.org/pdf/2408.15266)] [[GitHub](https://github.com/mitmedialab/LLM-MedQA)] [[Dataset](https://github.com/mitmedialab/LLM-MedQA/tree/main/Expert%20Evaluation%20%26%20Dataset%20Generation)]\
 11 Aug 2024
 
+**AlpacaEval: An Automatic Evaluator for Instruction-following Language Models**\
+*Xuechen Li, Tianyi Zhang, Yann Dubois, Rohan Taori, Ishaan Gulrajani, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto*\
+[[Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)] [[GitHub](https://github.com/tatsu-lab/alpaca_eval)] [[Dataset](https://huggingface.co/datasets/tatsu-lab/alpaca_eval/blob/main/alpaca_farm_human_crossannotations.json)]\
+2023
+
 **A Critical Evaluation of Evaluations for Long-form Question Answering**\
 *Fangyuan Xu, Yixiao Song, Mohit Iyyer, Eunsol Choi*\
 ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.181.pdf)] [[GitHub](https://github.com/carriex/lfqa_eval)] [[Dataset](https://github.com/carriex/lfqa_eval/tree/main/preference_data)]\
