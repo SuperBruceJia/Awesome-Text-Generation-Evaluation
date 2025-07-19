@@ -190,6 +190,12 @@ WMT 2022, [[Paper](https://aclanthology.org/2022.wmt-1.51.pdf)] [[GitHub](https:
 
 ## Adversarial Samples
 
+## Pairwise Evaluation
+**Large Language Models are not Fair Evaluators**\
+*Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui*\
+ACL 2024, [[Paper](https://aclanthology.org/2024.acl-long.511.pdf)] [[GitHub](https://github.com/i-Eval/FairEval)]\
+30 Aug 2023
+
 ## Multi-dimension Disentanglement
 **Is ChatGPT a Good NLG Evaluator? A Preliminary Study**\
 *Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou*\
