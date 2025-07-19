@@ -70,8 +70,13 @@ Online Leaderboard, [[Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)] [[
 ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.181.pdf)] [[GitHub](https://github.com/carriex/lfqa_eval)] [[Dataset](https://github.com/carriex/lfqa_eval/tree/main/preference_data)]\
 29 May 2023
 
-**Learning to Summarize From Human Feedback**\
+**WebGPT: Browser-assisted Question-answering with Human Feedback**\
 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*\
+arXiv 2022, [[Paper](https://cdn.openai.com/WebGPT.pdf)] [[Official Dataset](https://huggingface.co/datasets/openai/webgpt_comparisons)] [[Processed Dataset](https://github.com/carriex/lfqa_eval/tree/main/preference_data)]\
+1 Jun 2022
+
+**Learning to Summarize From Human Feedback**\
+*Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*\
 NeurIPS 2020, [[Paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)] [[GitHub](https://github.com/openai/summarize-from-feedback)] [[Dataset](https://github.com/openai/summarize-from-feedback?tab=readme-ov-file#human-feedback-data)]\
 15 Feb 2022
 
