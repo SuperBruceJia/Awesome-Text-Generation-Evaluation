@@ -92,6 +92,11 @@ Proceedings of the Second Workshop on Machine Reading for Question Answering 201
 
 # Lexical Overlap as Evaluator
 ## N-gram-based Metrics
+**CIDEr: Consensus-based Image Description Evaluation**\
+*Ramakrishna Vedantam, C. Lawrence Zitnick, Devi Parikh*\
+CVPR 2015, [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.pdf)]\
+2015
+
 **chrF: Character _N_-gram F-score for Automatic MT Evaluation**\
 *Maja Popovic*\
 Workshop on Statistical Machine Translation 2015, [[Paper](https://aclanthology.org/W15-3049.pdf)] [[GitHub](https://github.com/m-popovic/chrF)] [[Hugging Face]](https://huggingface.co/spaces/evaluate-metric/chrf)\
